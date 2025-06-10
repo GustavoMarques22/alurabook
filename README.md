@@ -38,12 +38,15 @@ Para visualizar o projeto em seu ambiente local, siga os passos abaixo:
 Confira o visual do projeto Alurabooks em ação. As imagens abaixo ilustram a adaptação do layout em diversos tamanhos de tela:
 
 **Dispositivo Mobile**
+
 ![Tela Mobile do Alurabooks](/alurabooksIMG/AluraBooksMobile.png/)
 
 **Dispositivo Tablet**
+
 ![Tela Tablet do Alurabooks](/alurabooksIMG/AluraBooksTablet.png/)
 
 **Tela Desktop**
+
 ![Tela Desktop do Alurabooks](/alurabooksIMG/AluraBooksDesktop.png/)
 
 -----
