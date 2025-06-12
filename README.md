@@ -19,7 +19,7 @@ Para visualizar o projeto em seu ambiente local, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/seu-usuario/alurabooks.git
+    git clone https://github.com/gustavomarques22/alurabooks.git
     ```
 2.  **Abra no navegador:**
     Navegue até a pasta `alurabooks` e abra o arquivo `index.html` em seu navegador de preferência.
